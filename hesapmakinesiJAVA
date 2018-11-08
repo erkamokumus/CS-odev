@@ -35,7 +35,7 @@ public class hesapmakinesi {
   		  System.out.println("Sonuc:"+(a%b));
   	  }
   	  else {
-  		  System.out.println("girdiginiz sayi bir işleme denk gelmemektedir!");
+  		  System.out.println("girdiginiz sayi matematiksel bir işleme denk gelmemektedir!");
   	  }
     }
 }
